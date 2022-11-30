@@ -51,7 +51,7 @@ npm run dev
 cd mobile
 ```
 
-- Alterar os endereços de IP na pasta SCREENS nos componetes GAME e HOME. Insearir o IP da sua máquina Arquivos index.ts desses 2 componentes.
+- Alterar os endereços de IP na pasta SCREENS nos componetes GAME e HOME. Inserir o IP da sua máquina Arquivos index.ts desses 2 componentes.
 
 - Instalar as dependências da aplicação MOBILE
 
